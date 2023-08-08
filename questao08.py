@@ -7,4 +7,4 @@ por = float(input("Porcentagem que deseja lucrar:\n"))
 
 res = prod + prod * por / 100
 
-print(f"O valor da venda para conseguir o lucro pedido deve ser de {res}")
+print(f"O valor da venda para conseguir o lucro pedido deve ser de {res:.2f}")

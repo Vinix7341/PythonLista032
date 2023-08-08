@@ -7,4 +7,4 @@ p = int(input("Digite o número de parcelas até 10 vezes:\n"))
 
 vp = v /p
 
-print(f"O valor de cada parcela é de {vp}")
+print(f"O valor de cada parcela é de {vp:.2f}")

@@ -10,6 +10,6 @@ com = ven + ven * 15 / 100
 tot = sal + com
 
 print(f"Nome: {nome}")
-print(f"Salário fixo: {sal:.2}")
-print(f"Comissão: {com:.2}")
-print(f"Salário completo: {tot:.2}")
+print(f"Salário fixo: {sal:.2f}")
+print(f"Comissão: {com:.2f}")
+print(f"Salário completo: {tot:.2f}")
